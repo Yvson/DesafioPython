@@ -22,3 +22,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Versão do Python
+- 3.10.4
