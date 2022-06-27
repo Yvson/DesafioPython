@@ -27,7 +27,7 @@ python main.py
 - 3.10.4
 
 ## Sistema Operacional
-Linux - popOS!
+Linux - Pop!_OS
 
 ## Exemplo
 ```
