@@ -1,0 +1,2 @@
+binance-connector==1.13.0
+pytest==7.1.2
